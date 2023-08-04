@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radix-ui/primitives</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</div>
@@ -1634,7 +1634,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Aug 2023, 23:08:10 (timezone Asia/Tbilisi) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Aug 2023, 00:09:47 (timezone Asia/Tbilisi) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
