@@ -1427,7 +1427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/playwright</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Nov 29 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</div>
@@ -1514,7 +1514,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        394
+                                        395
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2084,7 +2084,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 667k out of 62.6m repositories</span>
+                                    <span class="gh">ranked 667k out of 66.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">41</div>
                                     </div>
@@ -2224,7 +2224,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.03m out of 62.6m repositories</span>
+                                    <span class="gh">ranked 4.96m out of 66.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2315,7 +2315,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Dec 2023, 00:09:59 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Dec 2023, 01:09:10 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
