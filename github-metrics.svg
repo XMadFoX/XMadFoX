@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1589 Commits
+                            1590 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    97.1k added, 34.2k removed
+                                    101k added, 40.5k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.09009015534093" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="234.09009015534093" y="0" width="126.54083426735883" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="360.63092442269976" y="0" width="44.803166572811435" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.4340909955112" y="0" width="21.762727945982842" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="427.19681894149403" y="0" width="16.415333831882652" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="443.6121527733767" y="0" width="6.999922139392217" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="450.61207491276895" y="0" width="4.81432055755438" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="455.4263954703233" y="0" width="4.573604529676661" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.15020564212477" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="234.15020564212477" y="0" width="126.5071612697677" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="360.65736691189244" y="0" width="44.79124427967329" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.44861119156576" y="0" width="21.75693680125123" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="427.205547992817" y="0" width="16.410965649076058" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="443.61651364189305" y="0" width="6.998059433470428" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="450.6145730753635" y="0" width="4.8130394485315415" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="455.42761252389505" y="0" width="4.572387476104964" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -244,7 +244,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>50.89%</div>
+                                <div>50.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -290,7 +290,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>27.51%</div>
+                                <div>27.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nats-io/nats-server</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-Performance server for NATS.io, the cloud and edge native messaging system.</div>
@@ -1661,7 +1661,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="129.26999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="129.57999999999998 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1683,10 +1683,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">917</div>
+                                        <div class="value">918</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 917 times</div>
+                                <div class="text">Repositories have been deployed 918 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2074,7 +2074,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 722k out of 215m repositories</span>
+                                    <span class="gh">ranked 722k out of 214m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">41</div>
                                     </div>
@@ -2214,7 +2214,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.32m out of 215m repositories</span>
+                                    <span class="gh">ranked 5.32m out of 214m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2305,7 +2305,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jul 2024, 00:13:32 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2024, 01:09:59 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
