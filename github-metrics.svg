@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>encoredev/encore</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure</div>
@@ -1487,7 +1487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chartdb/chartdb</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Database diagrams editor that allows you to visualize and design your DB with a single query.</div>
@@ -2400,7 +2400,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Nov 2024, 19:13:35 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2024, 20:16:09 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
