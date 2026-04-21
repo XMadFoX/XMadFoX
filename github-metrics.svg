@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1290 Commits
+                            1291 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.88863018939475" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="382.88863018939475" y="0" width="38.26629312303734" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="421.15492331243206" y="0" width="15.26630421934801" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="436.42122753178006" y="0" width="12.07145445133327" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.49268198311336" y="0" width="4.605190854131277" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="453.09787283724467" y="0" width="4.373721813561718" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.47159465080637" y="0" width="1.2827335134151985" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="458.7543281642216" y="0" width="1.2456718357784615" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.9014628292041" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="382.9014628292041" y="0" width="38.259924962833544" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="421.16138779203766" y="0" width="15.263763647396708" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="436.42515143943433" y="0" width="12.069445556570672" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.49459699600504" y="0" width="4.604424472265287" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="453.09902146827034" y="0" width="4.3729939520699865" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.4720154203403" y="0" width="1.2825200448023402" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="458.7545354651426" y="0" width="1.245464534857359" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1411,7 +1411,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liveblocks/frimousse</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight, unstyled, and composable emoji picker for React.</div>
@@ -1650,7 +1650,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Apr 2026, 23:05:31 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2026, 00:43:23 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
