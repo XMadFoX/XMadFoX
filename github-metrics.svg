@@ -1388,7 +1388,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anyproto/anytype-ts</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Anytype client for MacOS, Linux, and Windows</div>
@@ -1441,7 +1441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shadcn-ui/cn</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.</div>
@@ -1636,7 +1636,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Sept 2026, 21:37:47 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2026, 00:01:49 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
